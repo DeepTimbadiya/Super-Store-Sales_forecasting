@@ -15,3 +15,6 @@ We considered different time-series models and a regression model for time-serie
 
 ![image](https://github.com/user-attachments/assets/3ca0b971-df64-4899-9b90-4d552155749b)
 
+![image](https://github.com/user-attachments/assets/9a928382-a6fb-43dc-8639-680ebcdc361f)
+
+
